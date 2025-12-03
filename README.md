@@ -4,7 +4,7 @@
 
 🌌 Vnto777 – Arch Linux Minimal + Hyprland Desktop
 
-Screenshots
+Screenshots :
 
 <img width="1920" height="1080" alt="screenshot" src="https://github.com/user-attachments/assets/1f0767d2-229c-43a9-b426-2223bd75939a" />
 

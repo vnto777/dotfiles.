@@ -36,7 +36,30 @@ copyq = clipboard manager
 
 
 
-mirage = screenshot tool
+mirage = screg
+
+Installation :
+
+
+git clone https://github.com/vnto777/dotfiles.git
+
+cd dotfiles
+
+ls -a #to view hide files
+
+cd .config
+
+sudo mv fastfetch  hypr  kitty  tofi  wal  waybar  ~/.config
+
+cd ..
+
+
+sudo cp tofi-wallpaper ~/.local/bin/
+
+
+cp -r $HOME/dotfiles/Wallpaper $HOME
+[text.txt](https://github.com/user-attachments/files/23915859/text.txt)
+enshot tool
 
 
 
@@ -44,6 +67,8 @@ mirage = screenshot tool
 
 
 lazy vim = text 
+
+
 
 
 

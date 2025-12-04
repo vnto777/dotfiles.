@@ -59,7 +59,7 @@ ls -a  # Pour voir les fichiers cachés
 
 
 cd .config
-sudo mv fastfetch hypr kitty tofi wal waybar ~/.config
+sudo cp fastfetch hypr kitty tofi wal waybar ~/.config
 
 4. Installer le script du wallpaper Tofi :
 
